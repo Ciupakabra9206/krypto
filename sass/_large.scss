@@ -5,7 +5,7 @@
     }
 
     .header {
-        grid-template-rows: auto repeat(w, 1fr);
+        grid-template-rows: auto repeat(2, 1fr);
 
         &__text {
             grid-row: 2/4;
